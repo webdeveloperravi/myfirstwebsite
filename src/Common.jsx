@@ -13,7 +13,7 @@ const Common = (props) => {
                             <div className='row'>
                                 <div className='col-md-6 order-2 order-md-1'>
                                     <div style={{ paddingTop: "100px" }}>
-                                        <h1>Grow your Knowledge with <br /><strong className='text-uppercase text-primary'>Ravi kumar</strong></h1>
+                                        <h1>Grow your Knowledg with <br /><strong className='text-uppercase text-primary'>Ravi kumar</strong></h1>
                                         <h3>{props.name}</h3>
                                         <a href='#' className='btn btn-md text-uppercase get_started_btn my-3'>{props.btn_content}</a>
                                     </div>
